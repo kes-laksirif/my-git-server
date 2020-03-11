@@ -68,6 +68,7 @@ git add .
 git commit -m "descriptive message"
 git push -u origin master
 ```
+git remote add origin git@127.0.0.1:projectname.git
 
 ##### To change password of git user
 ```
