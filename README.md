@@ -79,7 +79,10 @@ sudo passwd git
 sudo apt-get remove openssh-client openssh-server
 sudo apt-get install openssh-client openssh-server
 ```
+##### If error in connecting to github
+Adding a new SSH key to your GitHub account
 
+https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
 
 
 ##### To save and exit in vi editor
