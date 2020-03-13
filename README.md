@@ -3,9 +3,14 @@
 
 #### Setup Server
 
-##### install git
+##### install git - ubuntu
 ```
 sudo apt update && sudo apt install git
+```
+
+##### install git - centos
+```
+sudo yum install git
 ```
 
 ##### Create a new user named git
